@@ -7,7 +7,7 @@
    public $senha;
    public $bd;
    public $port;
-   public $access_token = "";
+   public $access_token = "APP_USR-1944694566137858-112602-7c05ace793d4af1506cf873334ea4240-1385771874";
 
    private static $instance = null;
    private $pdo;
